@@ -19,6 +19,7 @@
 
 Welcome to the Coinbase Open Source MPC Library. This repository provides the essential cryptographic protocols that can be utilized to secure asset keys in a decentralized manner using MPC (secure multiparty computation / threshold signing) for blockchain networks.
 
+
 ## Overview
 
 This cryptographic library is based on the MPC library used at Coinbase to protect cryptoassets, with modifications to make it suitable for public use. The library is designed as a general-purpose cryptographic library for securing cryptoasset keys, allowing developers to build their own applications. Coinbase has invested significantly in building a secure MPC library, and it is our hope that this library will help those interested in deploying MPC to do so easily and securely.
